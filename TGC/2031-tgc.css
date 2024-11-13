@@ -1,0 +1,32 @@
+table		{vertical-align: middle;
+   		 text-align: center}
+
+table, td{
+	border-width: 0px;
+	border-collapse: separate;
+	border-spacing: 20px;
+	background-color: #000;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 0px;
+}
+body{
+	background-image: url("2031-bg.png");
+	background-repeat: repeat;
+}
+h1, h2, h3{
+	color: #00ff00;
+	font-family: "Segoe print", Verdana, sans-serif;
+}
+h1{
+	font-size: 36pt;
+}
+h2{
+	font-size: 14pt;
+	text-align: left;
+}
+h3{
+	font-size: 12pt;
+	text-align: right;
+}
+/*Pablo Cordero UY027 0010*/
